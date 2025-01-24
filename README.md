@@ -38,6 +38,7 @@ Here’s the updated version with Python, React, HTML, and CSS added:
 - 🌱 **Currently Learning**: Node.js, Express, and how to master backend concepts like tokens, sessions, and authentication.
 - 👯 **Looking to Collaborate On**: Cool, innovative web apps that solve real problems (bonus if it involves creative UI!).
 - 🤔 **Need Help With**: Optimizing API calls, debugging backend logic, and creating seamless user experiences.
+- 〽️ Founder and developer of Devs-info a platform and learning community for beginer developers(https://devs-info.netlify.app) 
 - 💬 **Ask Me About**:
   - BoJack Horseman theories (🎭 The View from Halfway Down!).
   - Learning JavaScript the hard way.
@@ -51,20 +52,6 @@ Here’s the updated version with Python, React, HTML, and CSS added:
 
 
                                                                               
-                                                                              
-,-.----.                                                  ___                 
-\    /  \                           ,---,               ,--.'|_      ,---.    
-;   :    \                        ,---.'|      ,---.    |  | :,'    /     \   
-|   | .\ :                        |   | :     '   ,'\   :  : ' :   /    / '   
-.   : |: |    ,---.     ,--.--.   :   : :    /   /   |.;__,'  /   .    ' /    
-|   |  \ :   /     \   /       \  :     |,-..   ; ,. :|  |   |   '    / ;     
-|   : .  /  /    /  | .--.  .-. | |   : '  |'   | |: ::__,'| :   |   :  \     
-;   | |  \ .    ' / |  \__\/: . . |   |  / :'   | .; :  '  : |__ ;   |   ``.  
-|   | ;\  \'   ;   /|  ," .--.; | '   : |: ||   :    |  |  | '.'|'   ;      \ 
-:   ' | \.''   |  / | /  /  ,.  | |   | '/ : \   \  /   ;  :    ;'   |  .\  | 
-:   : :-'  |   :    |;  :   .'   \|   :    |  `----'    |  ,   / |   :  ';  : 
-|   |.'     \   \  / |  ,     .-.//    \  /              ---`-'   \   \    /  
-`---'        `----'   `--`---'    `-'----'                         `---`--`   
                                                                               
 
 

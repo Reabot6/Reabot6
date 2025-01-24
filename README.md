@@ -2,6 +2,8 @@
 
 Hi there 👋, I’m Adeiza! A passionate backend-focused software developer currently learning JavaScript and diving deep into web development.
 
+![Header Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cb070be-99c5-482d-b8d4-30100f7921cf_875x508.png)
+
 ---
 
 ## 🎩 *"The View from Halfway Down"* 🌌
@@ -10,9 +12,6 @@ Hi there 👋, I’m Adeiza! A passionate backend-focused software developer cur
 (*- BoJack Horseman*)
 
 ---
-
-### 🛠️ Skills & Tools
-Here’s the updated version with Python, React, HTML, and CSS added:
 
 ### 🛠️ Skills & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
@@ -24,6 +23,7 @@ Here’s the updated version with Python, React, HTML, and CSS added:
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+
 ---
 
 ### 🔥 Stats
@@ -38,22 +38,14 @@ Here’s the updated version with Python, React, HTML, and CSS added:
 - 🌱 **Currently Learning**: Node.js, Express, and how to master backend concepts like tokens, sessions, and authentication.
 - 👯 **Looking to Collaborate On**: Cool, innovative web apps that solve real problems (bonus if it involves creative UI!).
 - 🤔 **Need Help With**: Optimizing API calls, debugging backend logic, and creating seamless user experiences.
-- 〽️ Founder and developer of Devs-info a platform and learning community for beginer developers(https://devs-info.netlify.app) 
+- 〽️ **Founder** and developer of [Devs-info](https://devs-info.netlify.app), a platform and learning community for beginner developers.  
 - 💬 **Ask Me About**:
   - BoJack Horseman theories (🎭 The View from Halfway Down!).
   - Learning JavaScript the hard way.
   - Tips for juggling school and web development.
 - 📫 **Reach Me At**:
-  - Email: onimisiadeolu@gmail.com
-  - Phone: +234-9167110216
-  - GitHub Projects: [Reabot6](https://github.com/Reabot6)
+  - **Email**: onimisiadeolu@gmail.com
+  - **Phone**: +234-9167110216
+  - **GitHub Projects**: [Reabot6](https://github.com/Reabot6)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: I believe every project should have an Easter egg. My current GitHub Easter egg? Look closely for BoJack references!
-
-
-                                                                              
-                                                                              
-
-
- "The View from Halfway Down" 🌌  
-

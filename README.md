@@ -2,13 +2,11 @@
 
 Hi there 👋, I’m Adeiza! A passionate backend-focused software developer currently learning JavaScript and diving deep into web development.
 
-![Header Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cb070be-99c5-482d-b8d4-30100f7921cf_875x508.png)
+![Header Image](https://i.pinimg.com/736x/51/54/76/5154760c80878e4e2ae4f20c9a981086.jpg)
 
 ---
 
-## 🎩 *"The View from Halfway Down"* 🌌
-
-> *“You know, it gets easier. You just have to do it every day.”*  
+## 🎩 *"The View from Halfway Down"* 🌌 
 (*- BoJack Horseman*)
 
 ---

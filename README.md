@@ -43,7 +43,7 @@ Hi there 👋, I’m Adeiza! A passionate backend-focused software developer cur
   - Tips for juggling school and web development.
 - 📫 **Reach Me At**:
   - **Email**: onimisiadeolu@gmail.com
-  - **Phone**: +234-9167110216
+  - **Phone**: +234-7074088874
   - **GitHub Projects**: [Reabot6](https://github.com/Reabot6)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: I believe every project should have an Easter egg. My current GitHub Easter egg? Look closely for BoJack references!

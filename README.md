@@ -79,8 +79,8 @@ Currently, I’m focused on leading innovative projects, mentoring junior develo
 ## 🤝 Let’s Connect
 
 - 📫 **Email**: [onimisiadeolu@gmail.com](mailto:onimisiadeolu@gmail.com)  
-- 🌐 **GitHub**: [Reabot6](https://github.com/Reabot6)  
-- 🗣️ **LinkedIn/Twitter/X**: Available upon request.
+- 🌐 **Github**: [Reabot6](https://github.com/Reabot6)  
+- 🗣️ **Twitter/X**: Available upon request.
 
 ---
 

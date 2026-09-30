@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://seofg.xyz">
-  <img src="https://www.linkedin.com/dms/prv/image/v2/D4E04AQEJ5NNH0Ffb4A/profile-originalbackgroundimage-shrink_200_800/B4EaDrFyjBIoAU-/0/1790650558961?m=AQKkLsNe4TtueAAAAaDyaqEVWMvvVO4Q9yoZj00kX2G7aN30KcO9LGGxwGc&e=1790859869&v=beta&t=vQBmZruJpj03pN-_K4kjx_O6bCUxV4LbQZ7dawlfvxk" alt="SFG" width="140" />
+  <img src="https://image.thum.io/get/width/1200/crop/700/https://seofg.xyz" alt="SFG" width="320" />
 </a>
 
 # Adeiza Onimisi Adeolu
@@ -13,7 +13,7 @@ I build products, AI systems, and software for businesses through [SFG](https://
 [![Email](https://img.shields.io/badge/Email-onimisiadeolu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onimisiadeolu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![SFG](https://img.shields.io/badge/SFG-seofg.xyz-000000?style=for-the-badge)](https://seofg.xyz)
-[![Devspost](https://img.shields.io/badge/Devspost-500%2B_learners-7c3aed?style=for-the-badge)](https://YOUR-DEVSPOST-URL)
+[![Farcaster](https://img.shields.io/badge/Farcaster-@reabot6-8A63D2?style=for-the-badge)](https://farcaster.xyz/reabot6)
 
 </div>
 
@@ -23,7 +23,7 @@ I build products, AI systems, and software for businesses through [SFG](https://
 
 I'm a product engineer and the founder of **SFG**, a product engineering studio and venture builder. Through SFG I build software, AI systems, automation, internal tools and digital products for businesses, along with products of my own.
 
-I've shipped multiple products, built one with **100+ active users**, released open source, and grown a community of **500+ learners**. I care about building things that are useful, understandable and accessible to the people who need them.
+I've shipped multiple products, built one with **100+ active users**, released open source, and completed **50 bounties on Farcaster**. I care about building things that are useful, understandable and accessible to the people who need them.
 
 **Areas I work in:** AI products and systems · Full-stack web apps · Business software and internal tools · Automation and integrations · Developer tools · Accessibility · EdTech
 
@@ -38,7 +38,7 @@ Built through SFG. Some are proprietary commercial products, so their source isn
 <td width="50%" valign="top">
 
 ### Cheta
-<a href="https://cheta.seofg.xyz/"><img src="./assets/cheta.png" alt="Cheta" /></a>
+<a href="https://cheta.seofg.xyz/"><img src="https://image.thum.io/get/width/1200/crop/700/https://cheta.seofg.xyz/" alt="Cheta" /></a>
 
 AI for business knowledge, documents, workflows and conversations. Turns a company's internal knowledge into an AI its teams can actually use.
 
@@ -50,7 +50,7 @@ AI for business knowledge, documents, workflows and conversations. Turns a compa
 <td width="50%" valign="top">
 
 ### Nod
-<a href="https://nod.seofg.xyz/home"><img src="./assets/nod.png" alt="Nod" /></a>
+<a href="https://nod.seofg.xyz/home"><img src="https://image.thum.io/get/width/1200/crop/700/https://nod.seofg.xyz/home" alt="Nod" /></a>
 
 A product with **100+ active users**.
 
@@ -64,7 +64,7 @@ A product with **100+ active users**.
 <td width="50%" valign="top">
 
 ### Beam
-<a href="https://beam-download.vercel.app/"><img src="./assets/beam.png" alt="Beam" /></a>
+<a href="https://beam-download.vercel.app/"><img src="https://image.thum.io/get/width/1200/crop/700/https://beam-download.vercel.app/" alt="Beam" /></a>
 
 Open-source developer productivity tool. **251+ downloads**, contributions welcome.
 
@@ -76,7 +76,7 @@ Open-source developer productivity tool. **251+ downloads**, contributions welco
 <td width="50%" valign="top">
 
 ### Ripplex
-<a href="https://www.ripplexbyreabot6.site/"><img src="./assets/ripplex.png" alt="Ripplex" /></a>
+<a href="https://www.ripplexbyreabot6.site/"><img src="https://image.thum.io/get/width/1200/crop/700/https://www.ripplexbyreabot6.site/" alt="Ripplex" /></a>
 
 A developer tool for understanding what a code change could affect across a codebase, before it breaks something elsewhere.
 
@@ -89,20 +89,8 @@ A developer tool for understanding what a code change could affect across a code
 <tr>
 <td width="50%" valign="top">
 
-### SEOForge
-<a href="https://YOUR-SEOFORGE-URL"><img src="./assets/seoforge.png" alt="SEOForge" /></a>
-
-AI-powered SEO platform.
-
-`Built through SFG`
-
-[**Visit SEOForge →**](https://YOUR-SEOFORGE-URL)
-
-</td>
-<td width="50%" valign="top">
-
 ### SFG
-<a href="https://seofg.xyz"><img src="./assets/sfg.png" alt="SFG" /></a>
+<a href="https://seofg.xyz"><img src="https://image.thum.io/get/width/1200/crop/700/https://seofg.xyz" alt="SFG" /></a>
 
 Product engineering studio and venture builder behind the products above. Software, AI systems, automation, websites and internal tools for businesses.
 
@@ -135,9 +123,13 @@ Accessibility was one of the reasons I started learning to code. It shaped my in
 
 ---
 
-## Community: Devspost
+## Community: Farcaster
 
-I built **Devspost**, a community for learning, building and sharing across technology. It has grown to **500+ learners** and goes beyond software development, including photography and other creative and technical fields.
+I'm active on Farcaster, where I've completed **50 bounties**, building and shipping for the community.
+
+<a href="https://farcaster.xyz/reabot6"><img src="https://image.thum.io/get/width/1200/crop/700/https://farcaster.xyz/reabot6" alt="Farcaster profile" width="600" /></a>
+
+[**View my Farcaster profile →**](https://farcaster.xyz/reabot6)
 
 ---
 
@@ -170,8 +162,18 @@ I try to understand the business before deciding what to build: how it works tod
 
 ## Certifications & Education
 
-- **MongoDB**: [Credential 1](https://www.credly.com/badges/bf1fe173-ec14-4f69-93b8-21e54ff19942/linked_in_profile) · [Credential 2](https://www.credly.com/badges/d3f13057-8ab8-4011-a76b-daf0fa3c0bb9/linked_in_profile) · [Credential 3](https://www.credly.com/badges/296a878e-6073-4ec1-8794-aad5e247206a/linked_in_profile)
-- **freeCodeCamp**: [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/Reabot6/javascript-algorithms-and-data-structures-v8) · [Responsive Web Design](https://freecodecamp.org/certification/Reabot6/responsive-web-design)
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/bf1fe173-ec14-4f69-93b8-21e54ff19942/linked_in_profile"><img src="https://image.thum.io/get/width/1200/crop/700/https://www.credly.com/badges/bf1fe173-ec14-4f69-93b8-21e54ff19942/linked_in_profile" alt="MongoDB credential 1" /></a><br/><sub>MongoDB credential 1</sub></td>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/d3f13057-8ab8-4011-a76b-daf0fa3c0bb9/linked_in_profile"><img src="https://image.thum.io/get/width/1200/crop/700/https://www.credly.com/badges/d3f13057-8ab8-4011-a76b-daf0fa3c0bb9/linked_in_profile" alt="MongoDB credential 2" /></a><br/><sub>MongoDB credential 2</sub></td>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/296a878e-6073-4ec1-8794-aad5e247206a/linked_in_profile"><img src="https://image.thum.io/get/width/1200/crop/700/https://www.credly.com/badges/296a878e-6073-4ec1-8794-aad5e247206a/linked_in_profile" alt="MongoDB credential 3" /></a><br/><sub>MongoDB credential 3</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center"><a href="https://freecodecamp.org/certification/Reabot6/javascript-algorithms-and-data-structures-v8"><img src="https://image.thum.io/get/width/1200/crop/700/https://freecodecamp.org/certification/Reabot6/javascript-algorithms-and-data-structures-v8" alt="freeCodeCamp: JavaScript Algorithms and Data Structures" /></a><br/><sub>freeCodeCamp: JavaScript Algorithms and Data Structures</sub></td>
+<td width="33%" align="center"><a href="https://freecodecamp.org/certification/Reabot6/responsive-web-design"><img src="https://image.thum.io/get/width/1200/crop/700/https://freecodecamp.org/certification/Reabot6/responsive-web-design" alt="freeCodeCamp: Responsive Web Design" /></a><br/><sub>freeCodeCamp: Responsive Web Design</sub></td>
+</tr>
+</table>
+
 - **Harvard CS50**
 - **Educational Technology**, Lagos State University
 

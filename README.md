@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://seofg.xyz">
-  <img src="./assets/sfg-logo.png" alt="SFG" width="140" />
+  <img src="https://www.linkedin.com/dms/prv/image/v2/D4E04AQEJ5NNH0Ffb4A/profile-originalbackgroundimage-shrink_200_800/B4EaDrFyjBIoAU-/0/1790650558961?m=AQKkLsNe4TtueAAAAaDyaqEVWMvvVO4Q9yoZj00kX2G7aN30KcO9LGGxwGc&e=1790859869&v=beta&t=vQBmZruJpj03pN-_K4kjx_O6bCUxV4LbQZ7dawlfvxk" alt="SFG" width="140" />
 </a>
 
 # Adeiza Onimisi Adeolu

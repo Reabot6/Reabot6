@@ -95,6 +95,7 @@ A developer tool for understanding what a code change could affect across a code
 Product engineering studio and venture builder behind the products above. Software, AI systems, automation, websites and internal tools for businesses.
 
 [**Visit SFG →**](https://seofg.xyz)
+[**Visit SFG LinkedIn →**](https://www.linkedin.com/company/sfgbyreabot6/  )
 
 </td>
 </tr>

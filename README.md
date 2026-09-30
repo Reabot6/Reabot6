@@ -1,92 +1,243 @@
-# ⚡ Adeiza Onimisi Adeolu — @Reabot6
+Adeiza Onimisi Adeolu
 
-> _"The View from Halfway Down."_  
-> — *BoJack Horseman*
+Founder • AI Product Engineer • Product Builder
 
-![Header Image](https://i.pinimg.com/736x/51/54/76/5154760c80878e4e2ae4f20c9a981086.jpg)
+I build companies, products, and systems around ideas I believe should exist.
 
----
+I’m the founder of SFG, a product engineering studio and venture builder where I work with businesses to build software, AI systems, automation, websites, internal tools, and digital products.
 
-## 🚀 About Me
+I also build and ship products through SFG, work on open-source projects, and experiment with AI, developer tools, accessibility, education, and other areas of technology.
 
-I’m a seasoned full-stack developer with over five years of experience, specializing in backend development and system architecture. My expertise lies in designing and building scalable, secure, and high-performance APIs using **JavaScript**, **Node.js**, **Express**, and **MongoDB**, with a focus on authentication systems, database optimization, and microservices. I thrive on diving deep into complex systems, architecting robust solutions, and ensuring seamless functionality under the hood.
+I care about building things that are useful, understandable, and accessible to the people who need them.
 
-On the frontend, I leverage modern frameworks like **React** and **TailwindCSS** to deliver responsive, user-centric interfaces. My recent completion of **Harvard's CS50** has deepened my understanding of computer science fundamentals—from algorithms and data structures to low-level programming in **C++**—enabling me to approach problems with both theoretical rigor and practical expertise. I’m proficient in containerization with **Docker**, ensuring consistent deployment pipelines and scalable infrastructure.
+⸻
 
-Currently, I’m focused on leading innovative projects, mentoring junior developers, and exploring advanced topics like distributed systems, AI-driven SaaS, and cloud-native architectures. I’m seeking senior-level opportunities to architect impactful solutions, drive technical strategy, and collaborate with dynamic teams.
+What I Build
 
-🧠 **What I’m Doing Now**
+My work sits across a few areas:
 
-- Architecting **SkillReformNG**, a platform connecting users to verified training opportunities with role-based authentication, dynamic dashboards, and scalable infrastructure.
-- Designing clean, secure REST APIs with features like JWT-based auth, slugified URLs, email verification, and real-time analytics.
-- Prototyping SaaS solutions in AI, education, and accessibility, leveraging cloud services and microservices.
-- Deepening expertise in containerization with **Docker** and Kubernetes for streamlined CI/CD pipelines.
-- Experimenting with **C++** for performance-critical applications and systems programming.
-- Participating in hackathons and open-source bounties to rapidly prototype and validate ideas.
+* AI products and AI systems
+* Full-stack web applications
+* Business software and internal tools
+* Automation and integrations
+* Developer tools
+* Accessibility and inclusive technology
+* EdTech and education technology
+* Product engineering and system architecture
 
-## ⚙️ Tech Stack
+I enjoy taking a problem from an idea, understanding how it works in the real world, and turning it into something people can actually use.
 
-**Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
+⸻
 
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
-![Supabase](https://img.shields.io/badge/-Supabase-lightgreen?style=flat-square&logo=supabase)  
-![Nodemailer](https://img.shields.io/badge/-Nodemailer-yellow?style=flat-square)  
-![EJS](https://img.shields.io/badge/-EJS-grey?style=flat-square)  
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-0ea5e9?style=flat-square&logo=tailwind-css)  
+Products I’ve Built
 
-**Concepts & Practices:**  
-- Advanced computer science fundamentals (via **Harvard CS50**): algorithms, data structures, memory management.
-- Microservices architecture, RESTful API design, and GraphQL.
-- Cloud-native development, CI/CD pipelines, and container orchestration.
-- Security best practices: OAuth, JWT, sessions, and secure database design.
+Some of the products below were built through SFG. Not all of them are open source.
 
----
+Cheta
 
-## 📊 GitHub Stats
+AI for business knowledge, documents, workflows and conversations.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reabot6&show_icons=true&theme=radical)
+Cheta is a product built through SFG that helps businesses turn their internal knowledge and workflows into an AI their teams can actually use.
 
----
+Status: Proprietary product
+Built through: SFG
 
-## 🌍 Projects in Focus
+Visit Cheta
 
-- 💼 **SkillReformNG**  
-  A scalable platform connecting Nigerian users to verified training programs from NGOs, government, and organizations.  
-  **Features:** Role-based authentication (Admin/Trainer/Trainee), dynamic dashboards, slugified URLs, email verification, and containerized deployment with **Docker**.  
-  **Tech:** Node.js, Express, MongoDB, React, TailwindCSS, Docker.
+⸻
 
-- 🧪 **PermitPal (MVP in Progress)**  
-  A SaaS platform streamlining inspection workflows for mobile food vendors, addressing real-world urban challenges.  
-  **Features:** Real-time compliance tracking, automated notifications, and secure API integrations.  
-  **Tech:** Node.js, Supabase, Docker, React.
+Nod
 
-- 📸 **Grey Invisibility Cloak App**  
-  An innovative webcam-based application using JavaScript and **C++** for real-time background detection and color masking to simulate invisibility.  
-  **Features:** Optimized for performance with low-latency processing and modular design.  
-  **Tech:** JavaScript, C++, WebRTC.
+A product built through SFG with 100+ active users.
 
----
+Status: Proprietary product
+Built through: SFG
 
-## 🤝 Let’s Connect
+Visit Nod
 
-- 📫 **Email**: [onimisiadeolu@gmail.com](mailto:onimisiadeolu@gmail.com)  
-- 🌐 **Github**: [Reabot6](https://github.com/Reabot6)  
-- 🗣️ **Twitter/X**: Available upon request.
+⸻
 
----
+Beam
 
-## ⚡ Fun Fact
+An open-source developer productivity tool.
 
-I embed subtle *BoJack Horseman* references in my codebases, giving each project a touch of personality.  
-As a senior developer, I’ve learned that mastering backend development the hard way—through rigorous problem-solving and continuous learning—builds not just systems, but character.
+Beam is publicly available and open to contributions.
 
----
+Downloads: 251+
+Status: Open source
+
+Visit Beam
+
+⸻
+
+Ripplex
+
+A developer tool built around understanding the impact of changes across a codebase.
+
+The idea is to help developers understand what a change could affect before it creates problems elsewhere.
+
+Status: Product in development
+Built through: SFG
+
+Visit Ripplex
+
+⸻
+
+SFG
+
+Product engineering studio & venture builder.
+
+SFG works with businesses to build software, AI systems, automation, websites, internal tools and other technology products.
+
+SFG also serves as the company through which I build and experiment with products of my own.
+
+Visit SFG
+
+⸻
+
+Open Source & Experiments
+
+I use side projects and open-source work to explore ideas outside of commercial products.
+
+Some of the areas I’ve explored include:
+
+* Developer tooling
+* Computer vision
+* Motion tracking
+* Human-computer interaction
+* AI and LLM applications
+* C/C++ and systems programming
+* Accessibility
+* Inclusive technology
+* Education technology
+* Automation
+* Real-time applications
+* Experimental SaaS products
+
+I don’t treat every experiment as a startup. Some things are built because I want to understand how they work.
+
+⸻
+
+Accessibility & Inclusive Technology
+
+Accessibility was one of the things that pushed me toward learning how to code.
+
+I’ve spent time thinking about how technology can support people who are often left out of the way products are designed, particularly across education and digital tools.
+
+That thinking continues to influence how I build.
+
+As the companies and products I work on grow, I want accessibility and inclusive design to be considered during the engineering process, not added as an afterthought.
+
+⸻
+
+Devspost
+
+I also built Devspost, a technology community focused on learning, building and sharing across different areas of technology.
+
+The community has grown to 500+ learners and isn’t limited to software development. It brings together people exploring areas including technology, photography and other creative and technical fields.
+
+⸻
+
+How I Work
+
+Working with different businesses through SFG has changed how I approach software.
+
+I try to understand the business before deciding what technology should be built.
+
+That means looking at:
+
+* How the business currently works
+* Who is involved in the process
+* Where information moves
+* Where work gets repeated
+* Where customers or employees get stuck
+* What should be automated
+* What existing tools can already handle
+* What actually needs custom software
+
+I prefer solving the actual problem over building a large feature list.
+
+⸻
+
+Tech I Work With
+
+Languages
+
+JavaScript · TypeScript · Python · C · C++
+
+Frontend
+
+React · Next.js · Vite · Tailwind CSS
+
+Backend
+
+Node.js · Express · PostgreSQL · Prisma · Supabase · MongoDB
+
+AI
+
+LLM APIs · AI applications · RAG · Knowledge systems · AI integrations · AI automation
+
+Infrastructure & Tools
+
+Docker · Git · GitHub · Vercel · Railway · Supabase
+
+⸻
+
+Certifications & Learning
+
+MongoDB
+
+* MongoDB Credential
+* MongoDB Credential
+* MongoDB Credential
+
+freeCodeCamp
+
+* JavaScript Algorithms and Data Structures
+* Responsive Web Design
+
+Computer Science
+
+* Harvard CS50
+
+I also studied Educational Technology at Lagos State University, which has influenced my interest in education, accessibility and the intersection between people and technology.
+
+⸻
+
+GitHub Activity
+
+I build consistently across products, experiments, client work and open-source projects.
+
+Over the past year I’ve made 700+ contributions.
+
+Most of that activity comes from actually building and shipping rather than maintaining a collection of tutorial repositories.
+
+⸻
+
+What I’m Building Now
+
+* Cheta — AI for business knowledge and workflows
+* SFG — product engineering studio and venture builder
+* Nod — product with 100+ active users
+* Beam — open-source developer productivity tool
+* Ripplex — developer tooling
+* Accessibility-focused technology
+* AI and product engineering experiments
+
+⸻
+
+Let’s Connect
+
+I’m interested in:
+
+* Product engineering
+* AI engineering
+* Building startups and products
+* Open-source collaboration
+* Accessibility and inclusive technology
+* Interesting technical problems
+* Working with ambitious teams
+
+Email: onimisiadeolu@gmail.com
+
+GitHub: @Reabot6

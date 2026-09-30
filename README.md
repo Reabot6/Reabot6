@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://seofg.xyz">
-  <img src="https://image.thum.io/get/width/1200/crop/700/https://seofg.xyz" alt="SFG" width="320" />
+  <img src="https://api.microlink.io/?url=https://seofg.xyz&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="SFG" width="320" />
 </a>
 
 # Adeiza Onimisi Adeolu
@@ -38,7 +38,7 @@ Built through SFG. Some are proprietary commercial products, so their source isn
 <td width="50%" valign="top">
 
 ### Cheta
-<a href="https://cheta.seofg.xyz/"><img src="https://image.thum.io/get/width/1200/crop/700/https://cheta.seofg.xyz/" alt="Cheta" /></a>
+<a href="https://cheta.seofg.xyz/"><img src="https://api.microlink.io/?url=https://cheta.seofg.xyz/&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="Cheta" /></a>
 
 AI for business knowledge, documents, workflows and conversations. Turns a company's internal knowledge into an AI its teams can actually use.
 
@@ -76,7 +76,7 @@ Open-source developer productivity tool. **251+ downloads**, contributions welco
 <td width="50%" valign="top">
 
 ### Ripplex
-<a href="https://www.ripplexbyreabot6.site/"><img src="https://image.thum.io/get/width/1200/crop/700/https://www.ripplexbyreabot6.site/" alt="Ripplex" /></a>
+<a href="https://www.ripplexbyreabot6.site/"><img src="https://api.microlink.io/?url=https://www.ripplexbyreabot6.site/&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="Ripplex" /></a>
 
 A developer tool for understanding what a code change could affect across a codebase, before it breaks something elsewhere.
 
@@ -90,7 +90,7 @@ A developer tool for understanding what a code change could affect across a code
 <td width="50%" valign="top">
 
 ### SFG
-<a href="https://seofg.xyz"><img src="https://image.thum.io/get/width/1200/crop/700/https://seofg.xyz" alt="SFG" /></a>
+<a href="https://seofg.xyz"><img src="https://api.microlink.io/?url=https://seofg.xyz&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="SFG" /></a>
 
 Product engineering studio and venture builder behind the products above. Software, AI systems, automation, websites and internal tools for businesses.
 
@@ -127,7 +127,7 @@ Accessibility was one of the reasons I started learning to code. It shaped my in
 
 I'm active on Farcaster, where I've completed **50 bounties**, building and shipping for the community.
 
-<a href="https://farcaster.xyz/reabot6"><img src="https://image.thum.io/get/width/1200/crop/700/https://farcaster.xyz/reabot6" alt="Farcaster profile" width="600" /></a>
+<a href="https://farcaster.xyz/reabot6"><img src="https://api.microlink.io/?url=https://farcaster.xyz/reabot6&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="Farcaster profile" width="600" /></a>
 
 [**View my Farcaster profile →**](https://farcaster.xyz/reabot6)
 
@@ -164,15 +164,14 @@ I try to understand the business before deciding what to build: how it works tod
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://www.credly.com/badges/bf1fe173-ec14-4f69-93b8-21e54ff19942/linked_in_profile"><img src="https://image.thum.io/get/width/1200/crop/700/https://www.credly.com/badges/bf1fe173-ec14-4f69-93b8-21e54ff19942/linked_in_profile" alt="MongoDB credential 1" /></a><br/><sub>MongoDB credential 1</sub></td>
-<td width="33%" align="center"><a href="https://www.credly.com/badges/d3f13057-8ab8-4011-a76b-daf0fa3c0bb9/linked_in_profile"><img src="https://image.thum.io/get/width/1200/crop/700/https://www.credly.com/badges/d3f13057-8ab8-4011-a76b-daf0fa3c0bb9/linked_in_profile" alt="MongoDB credential 2" /></a><br/><sub>MongoDB credential 2</sub></td>
-<td width="33%" align="center"><a href="https://www.credly.com/badges/296a878e-6073-4ec1-8794-aad5e247206a/linked_in_profile"><img src="https://image.thum.io/get/width/1200/crop/700/https://www.credly.com/badges/296a878e-6073-4ec1-8794-aad5e247206a/linked_in_profile" alt="MongoDB credential 3" /></a><br/><sub>MongoDB credential 3</sub></td>
-</tr>
-<tr>
-<td width="33%" align="center"><a href="https://freecodecamp.org/certification/Reabot6/javascript-algorithms-and-data-structures-v8"><img src="https://image.thum.io/get/width/1200/crop/700/https://freecodecamp.org/certification/Reabot6/javascript-algorithms-and-data-structures-v8" alt="freeCodeCamp: JavaScript Algorithms and Data Structures" /></a><br/><sub>freeCodeCamp: JavaScript Algorithms and Data Structures</sub></td>
-<td width="33%" align="center"><a href="https://freecodecamp.org/certification/Reabot6/responsive-web-design"><img src="https://image.thum.io/get/width/1200/crop/700/https://freecodecamp.org/certification/Reabot6/responsive-web-design" alt="freeCodeCamp: Responsive Web Design" /></a><br/><sub>freeCodeCamp: Responsive Web Design</sub></td>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/bf1fe173-ec14-4f69-93b8-21e54ff19942/linked_in_profile"><img src="https://images.credly.com/images/592afcf7-1323-4dc4-af0d-0c3cad726e95/linkedin_thumb_blob" alt="MongoDB: Advanced Schema Design Patterns and Anti-patterns" width="180" /></a><br/><sub>MongoDB: Advanced Schema Design Patterns and Anti-patterns</sub></td>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/d3f13057-8ab8-4011-a76b-daf0fa3c0bb9/linked_in_profile"><img src="https://images.credly.com/images/3c35c208-424b-4580-aac2-335f33d87657/linkedin_thumb_blob" alt="MongoDB: Reliability and Availability" width="180" /></a><br/><sub>MongoDB: Reliability and Availability</sub></td>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/296a878e-6073-4ec1-8794-aad5e247206a/linked_in_profile"><img src="https://images.credly.com/images/730e9c82-7869-4288-b580-9f8500a94465/linkedin_thumb_blob" alt="MongoDB: Building AI-Powered Search with Vector Search" width="180" /></a><br/><sub>MongoDB: Building AI-Powered Search with Vector Search</sub></td>
 </tr>
 </table>
+
+[![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/freeCodeCamp-JavaScript_Algorithms_%26_Data_Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/Reabot6/javascript-algorithms-and-data-structures-v8)
+[![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/Reabot6/responsive-web-design)
 
 - **Harvard CS50**
 - **Educational Technology**, Lagos State University

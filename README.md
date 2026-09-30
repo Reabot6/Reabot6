@@ -1,243 +1,209 @@
-Adeiza Onimisi Adeolu
+<div align="center">
 
-Founder • AI Product Engineer • Product Builder
+<a href="https://seofg.xyz">
+  <img src="./assets/sfg-logo.png" alt="SFG" width="140" />
+</a>
 
-I build companies, products, and systems around ideas I believe should exist.
+# Adeiza Onimisi Adeolu
 
-I’m the founder of SFG, a product engineering studio and venture builder where I work with businesses to build software, AI systems, automation, websites, internal tools, and digital products.
+**Founder · AI Product Engineer · Full-Stack Builder**
 
-I also build and ship products through SFG, work on open-source projects, and experiment with AI, developer tools, accessibility, education, and other areas of technology.
+I build products, AI systems, and software for businesses through [SFG](https://seofg.xyz), and explore ideas of my own.
 
-I care about building things that are useful, understandable, and accessible to the people who need them.
+[![Email](https://img.shields.io/badge/Email-onimisiadeolu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onimisiadeolu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![SFG](https://img.shields.io/badge/SFG-seofg.xyz-000000?style=for-the-badge)](https://seofg.xyz)
+[![Devspost](https://img.shields.io/badge/Devspost-500%2B_learners-7c3aed?style=for-the-badge)](https://YOUR-DEVSPOST-URL)
 
-⸻
+</div>
 
-What I Build
+---
 
-My work sits across a few areas:
+## About
 
-* AI products and AI systems
-* Full-stack web applications
-* Business software and internal tools
-* Automation and integrations
-* Developer tools
-* Accessibility and inclusive technology
-* EdTech and education technology
-* Product engineering and system architecture
+I'm a product engineer and the founder of **SFG**, a product engineering studio and venture builder. Through SFG I build software, AI systems, automation, internal tools and digital products for businesses, along with products of my own.
 
-I enjoy taking a problem from an idea, understanding how it works in the real world, and turning it into something people can actually use.
+I've shipped multiple products, built one with **100+ active users**, released open source, and grown a community of **500+ learners**. I care about building things that are useful, understandable and accessible to the people who need them.
 
-⸻
+**Areas I work in:** AI products and systems · Full-stack web apps · Business software and internal tools · Automation and integrations · Developer tools · Accessibility · EdTech
 
-Products I’ve Built
+---
 
-Some of the products below were built through SFG. Not all of them are open source.
+## Products
 
-Cheta
+Built through SFG. Some are proprietary commercial products, so their source isn't public. Others are open source.
 
-AI for business knowledge, documents, workflows and conversations.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Cheta is a product built through SFG that helps businesses turn their internal knowledge and workflows into an AI their teams can actually use.
+### Cheta
+<a href="https://cheta.seofg.xyz/"><img src="./assets/cheta.png" alt="Cheta" /></a>
 
-Status: Proprietary product
-Built through: SFG
+AI for business knowledge, documents, workflows and conversations. Turns a company's internal knowledge into an AI its teams can actually use.
 
-Visit Cheta
+`Proprietary` · `Built through SFG`
 
-⸻
+[**Visit Cheta →**](https://cheta.seofg.xyz/)
 
-Nod
+</td>
+<td width="50%" valign="top">
 
-A product built through SFG with 100+ active users.
+### Nod
+<a href="https://nod.seofg.xyz/home"><img src="./assets/nod.png" alt="Nod" /></a>
 
-Status: Proprietary product
-Built through: SFG
+A product with **100+ active users**.
 
-Visit Nod
+`Proprietary` · `Built through SFG`
 
-⸻
+[**Visit Nod →**](https://nod.seofg.xyz/home)
 
-Beam
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An open-source developer productivity tool.
+### Beam
+<a href="https://beam-download.vercel.app/"><img src="./assets/beam.png" alt="Beam" /></a>
 
-Beam is publicly available and open to contributions.
+Open-source developer productivity tool. **251+ downloads**, contributions welcome.
 
-Downloads: 251+
-Status: Open source
+`Open source`
 
-Visit Beam
+[**Download Beam →**](https://beam-download.vercel.app/) · [**Repo →**](https://github.com/Reabot6/YOUR-BEAM-REPO)
 
-⸻
+</td>
+<td width="50%" valign="top">
 
-Ripplex
+### Ripplex
+<a href="https://www.ripplexbyreabot6.site/"><img src="./assets/ripplex.png" alt="Ripplex" /></a>
 
-A developer tool built around understanding the impact of changes across a codebase.
+A developer tool for understanding what a code change could affect across a codebase, before it breaks something elsewhere.
 
-The idea is to help developers understand what a change could affect before it creates problems elsewhere.
+`In development` · `Built through SFG`
 
-Status: Product in development
-Built through: SFG
+[**Visit Ripplex →**](https://www.ripplexbyreabot6.site/)
 
-Visit Ripplex
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-⸻
+### SEOForge
+<a href="https://YOUR-SEOFORGE-URL"><img src="./assets/seoforge.png" alt="SEOForge" /></a>
 
-SFG
+AI-powered SEO platform.
 
-Product engineering studio & venture builder.
+`Built through SFG`
 
-SFG works with businesses to build software, AI systems, automation, websites, internal tools and other technology products.
+[**Visit SEOForge →**](https://YOUR-SEOFORGE-URL)
 
-SFG also serves as the company through which I build and experiment with products of my own.
+</td>
+<td width="50%" valign="top">
 
-Visit SFG
+### SFG
+<a href="https://seofg.xyz"><img src="./assets/sfg.png" alt="SFG" /></a>
 
-⸻
+Product engineering studio and venture builder behind the products above. Software, AI systems, automation, websites and internal tools for businesses.
 
-Open Source & Experiments
+[**Visit SFG →**](https://seofg.xyz)
 
-I use side projects and open-source work to explore ideas outside of commercial products.
+</td>
+</tr>
+</table>
 
-Some of the areas I’ve explored include:
+---
 
-* Developer tooling
-* Computer vision
-* Motion tracking
-* Human-computer interaction
-* AI and LLM applications
-* C/C++ and systems programming
-* Accessibility
-* Inclusive technology
-* Education technology
-* Automation
-* Real-time applications
-* Experimental SaaS products
+## Open Source & Experiments
 
-I don’t treat every experiment as a startup. Some things are built because I want to understand how they work.
+I use side projects to explore ideas outside commercial work. Not every experiment is a startup; some are built because I want to understand how something works.
 
-⸻
+- **Beam**: open-source developer productivity tool
+- **Computer vision and motion tracking**: webcam-based experiments, including using the human body to control games
+- **Human-computer interaction** and real-time applications
+- **AI and LLM applications**, developer tooling, automation
+- **C/C++ and systems programming**
+- **Accessibility and EdTech prototypes**, experimental SaaS
 
-Accessibility & Inclusive Technology
+[Browse my repositories →](https://github.com/Reabot6?tab=repositories)
 
-Accessibility was one of the things that pushed me toward learning how to code.
+---
 
-I’ve spent time thinking about how technology can support people who are often left out of the way products are designed, particularly across education and digital tools.
+## Accessibility & Inclusive Technology
 
-That thinking continues to influence how I build.
+Accessibility was one of the reasons I started learning to code. It shaped my interest in inclusive technology and education, and it still influences how I build. As SFG grows, I want accessibility and inclusive design to be part of the engineering process from the start, not an afterthought.
 
-As the companies and products I work on grow, I want accessibility and inclusive design to be considered during the engineering process, not added as an afterthought.
+---
 
-⸻
+## Community: Devspost
 
-Devspost
+I built **Devspost**, a community for learning, building and sharing across technology. It has grown to **500+ learners** and goes beyond software development, including photography and other creative and technical fields.
 
-I also built Devspost, a technology community focused on learning, building and sharing across different areas of technology.
+---
 
-The community has grown to 500+ learners and isn’t limited to software development. It brings together people exploring areas including technology, photography and other creative and technical fields.
+## How I Work
 
-⸻
+I try to understand the business before deciding what to build: how it works today, who is involved, where information moves, where work is repeated, where people get stuck, what should be automated, what existing tools already handle, and what genuinely needs custom software. I'd rather solve the actual problem than ship a long feature list.
 
-How I Work
+---
 
-Working with different businesses through SFG has changed how I approach software.
+## Tech I Work With
 
-I try to understand the business before deciding what technology should be built.
+**Languages**
+![](https://skillicons.dev/icons?i=js,ts,py,c,cpp)
 
-That means looking at:
+**Frontend**
+![](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)
 
-* How the business currently works
-* Who is involved in the process
-* Where information moves
-* Where work gets repeated
-* Where customers or employees get stuck
-* What should be automated
-* What existing tools can already handle
-* What actually needs custom software
+**Backend & Data**
+![](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase,mongodb)
 
-I prefer solving the actual problem over building a large feature list.
+**Infrastructure & Tools**
+![](https://skillicons.dev/icons?i=docker,git,github,vercel) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-⸻
+**AI**
+`LLM APIs` `RAG` `Knowledge systems` `AI integrations` `AI automation`
 
-Tech I Work With
+**Also:** REST APIs · WebSockets · Authentication · Computer vision
 
-Languages
+---
 
-JavaScript · TypeScript · Python · C · C++
+## Certifications & Education
 
-Frontend
+- **MongoDB**: [Credential 1](https://www.credly.com/badges/bf1fe173-ec14-4f69-93b8-21e54ff19942/linked_in_profile) · [Credential 2](https://www.credly.com/badges/d3f13057-8ab8-4011-a76b-daf0fa3c0bb9/linked_in_profile) · [Credential 3](https://www.credly.com/badges/296a878e-6073-4ec1-8794-aad5e247206a/linked_in_profile)
+- **freeCodeCamp**: [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/Reabot6/javascript-algorithms-and-data-structures-v8) · [Responsive Web Design](https://freecodecamp.org/certification/Reabot6/responsive-web-design)
+- **Harvard CS50**
+- **Educational Technology**, Lagos State University
 
-React · Next.js · Vite · Tailwind CSS
+---
 
-Backend
+## GitHub Activity
 
-Node.js · Express · PostgreSQL · Prisma · Supabase · MongoDB
+<div align="center">
 
-AI
+![Stats](https://github-readme-stats.vercel.app/api?username=Reabot6&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reabot6&layout=compact&theme=tokyonight&hide_border=true)
 
-LLM APIs · AI applications · RAG · Knowledge systems · AI integrations · AI automation
+![Streak](https://streak-stats.demolab.com/?user=Reabot6&theme=tokyonight&hide_border=true)
 
-Infrastructure & Tools
+</div>
 
-Docker · Git · GitHub · Vercel · Railway · Supabase
+700+ contributions in the past year, mostly from building and shipping products.
 
-⸻
+---
 
-Certifications & Learning
+## Currently Building
 
-MongoDB
+- **Cheta**: AI for business knowledge and workflows
+- **SFG**: product engineering studio and venture builder
+- **Ripplex**: developer tooling
+- **Nod** and **Beam**: growing users and contributors
+- Accessibility-focused technology and AI experiments
 
-* MongoDB Credential
-* MongoDB Credential
-* MongoDB Credential
+---
 
-freeCodeCamp
+## Let's Connect
 
-* JavaScript Algorithms and Data Structures
-* Responsive Web Design
+Open to product engineering, AI engineering and startup roles, open-source collaboration, and hard technical problems with ambitious teams.
 
-Computer Science
-
-* Harvard CS50
-
-I also studied Educational Technology at Lagos State University, which has influenced my interest in education, accessibility and the intersection between people and technology.
-
-⸻
-
-GitHub Activity
-
-I build consistently across products, experiments, client work and open-source projects.
-
-Over the past year I’ve made 700+ contributions.
-
-Most of that activity comes from actually building and shipping rather than maintaining a collection of tutorial repositories.
-
-⸻
-
-What I’m Building Now
-
-* Cheta — AI for business knowledge and workflows
-* SFG — product engineering studio and venture builder
-* Nod — product with 100+ active users
-* Beam — open-source developer productivity tool
-* Ripplex — developer tooling
-* Accessibility-focused technology
-* AI and product engineering experiments
-
-⸻
-
-Let’s Connect
-
-I’m interested in:
-
-* Product engineering
-* AI engineering
-* Building startups and products
-* Open-source collaboration
-* Accessibility and inclusive technology
-* Interesting technical problems
-* Working with ambitious teams
-
-Email: onimisiadeolu@gmail.com
-
-GitHub: @Reabot6
+📧 [onimisiadeolu@gmail.com](mailto:onimisiadeolu@gmail.com) · 🐙 [@Reabot6](https://github.com/Reabot6)

@@ -1,340 +1,228 @@
 <div align="center">
+
 <a href="https://seofg.xyz">
   <img src="https://api.microlink.io/?url=https://seofg.xyz&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="SFG" width="320" />
 </a>
 
-Adeiza Onimisi Adeolu
+# Adeiza Onimisi Adeolu
 
-Founder · AI Product Engineer · Full-Stack Engineer
+**Founder · AI Product Engineer · Full-Stack Builder**
 
-I build technology for businesses, ship products, and explore how things work under the hood.
+I build and ship software, AI systems, and digital products for businesses through [SFG](https://seofg.xyz).  
+Most of that work is proprietary. I’m now open-sourcing more of it so you can see how I actually build.
 
-Founder of SFG, a product engineering studio and venture builder.
-
-Email · LinkedIn · Portfolio · Farcaster
+[![Email](https://img.shields.io/badge/Email-onimisiadeolu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onimisiadeolu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![SFG](https://img.shields.io/badge/SFG-seofg.xyz-000000?style=for-the-badge)](https://seofg.xyz)
+[![Farcaster](https://img.shields.io/badge/Farcaster-@reabot6-8A63D2?style=for-the-badge)](https://farcaster.xyz/reabot6)
 
 </div>
 
-⸻
+---
 
-What I Do
+## Who I Am
 
-I’m the founder of SFG, where I build software for businesses and develop products of our own.
+I’m a product engineer and the founder of **SFG**, a product engineering studio and venture builder.  
 
-That work spans business applications, e-commerce systems, AI products, automation, internal tools, and developer infrastructure. Some of these projects are commercial products owned by SFG, which means their source code isn’t public. Others are experiments or tools that I’ve started releasing as open source.
+Through SFG I design, build, and ship:
+- AI products and knowledge systems
+- Full-stack web applications
+- Business software and internal tools
+- Automation and integrations
+- Developer tools
+- Accessibility-focused technology
 
-I’m changing that. I’ve started publishing selected codebases from my work so people can see more of how I approach engineering, not just what the finished products look like.
+I’ve shipped multiple products (including one with **100+ active users**), released open source, and completed **50 bounties on Farcaster**.  
 
-This GitHub is becoming a window into how I build.
+**Important context for recruiters:**  
+A large portion of my work is proprietary client and commercial software. That means my public GitHub currently under-represents the volume of real shipping I’ve done. I’m deliberately changing that — I’ve started open-sourcing more of the code I write (currently ~5 projects) and will continue releasing more so people can see how I approach real systems.
 
-I care about the entire process: understanding the problem, choosing an architecture, writing the software, handling the difficult parts, and getting something useful into people’s hands.
+---
 
-Selected Work
+## Products Built Through SFG
 
-These projects represent different parts of my engineering work. Some are commercial products, some are open source, and others are experiments.
+Some are commercial/proprietary. Others are open source or in the process of being opened.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Cheta
+### Cheta
+<a href="https://cheta.seofg.xyz/"><img src="https://api.microlink.io/?url=https://cheta.seofg.xyz/&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="Cheta" /></a>
 
-AI · Business Systems · Knowledge Engineering
+AI for business knowledge, documents, workflows and conversations. Turns a company’s internal knowledge into an AI its teams can actually use.
 
-An AI knowledge system that helps businesses turn their internal documents, processes, and workflows into knowledge their teams can use.
+`Proprietary` · `Built through SFG`
 
-Built to address a practical business problem: making organizational knowledge accessible when people need it.
-
-Status: Proprietary product built through SFG.
-
-Explore Cheta →
+[**Visit Cheta →**](https://cheta.seofg.xyz/)
 
 </td>
 <td width="50%" valign="top">
 
-Nod
+### Nod
+<a href="https://nod.seofg.xyz/home"><img src="https://image.thum.io/get/width/1200/crop/700/https://nod.seofg.xyz/home" alt="Nod" /></a>
 
-Product Engineering · Consumer Software
+A product with **100+ active users**.
 
-A movie recommendation product built around helping people discover what to watch.
+`Proprietary` · `Built through SFG`
 
-The product has reached 100+ active users.
-
-Status: Proprietary product built through SFG.
-
-Explore Nod →
+[**Visit Nod →**](https://nod.seofg.xyz/home)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-Beam
+### Beam
+<a href="https://beam-download.vercel.app/"><img src="https://image.thum.io/get/width/1200/crop/700/https://beam-download.vercel.app/" alt="Beam" /></a>
 
-Open Source · Desktop Software · Networking
+Open-source developer productivity tool. **251+ downloads**, contributions welcome.
 
-A local-network file and clipboard transfer tool. Move files and clipboard content between devices over Wi-Fi without requiring an account or cloud storage.
+`Open source`
 
-Built with Electron and a lightweight backend.
-
-Status: Open source.
-
-Try Beam →
+[**Download Beam →**](https://beam-download.vercel.app/) · [**Repo →**](https://github.com/Reabot6/YOUR-BEAM-REPO)
 
 </td>
 <td width="50%" valign="top">
 
-Ripplex
+### Ripplex
+<a href="https://www.ripplexbyreabot6.site/"><img src="https://api.microlink.io/?url=https://www.ripplexbyreabot6.site/&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="Ripplex" /></a>
 
-Developer Tools · Static Analysis · Code Quality
+A developer tool for understanding what a code change could affect across a codebase, before it breaks something elsewhere.
 
-A code-change impact tool that brings multiple analysis tools together to help developers understand potential problems in a pull request.
+`In development` · `Built through SFG`
 
-It combines findings from tools such as Semgrep, Oxlint, jscpd, and Knip into a consolidated, prioritized report.
-
-Status: Private beta.
-
-Explore Ripplex →
+[**Visit Ripplex →**](https://www.ripplexbyreabot6.site/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-PresentIQ
+### SFG
+<a href="https://seofg.xyz"><img src="https://api.microlink.io/?url=https://seofg.xyz&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&waitForTimeout=3000&viewport.width=1280&viewport.height=720" alt="SFG" /></a>
 
-AI · Speech Processing · Computer Vision
+Product engineering studio and venture builder. We build software, AI systems, automation, websites and internal tools for businesses.
 
-An AI presentation coach that analyzes speech, language, and delivery to help people improve how they present.
-
-Built with React, Python, FastAPI, speech recognition, computer vision, and AI integrations.
-
-Status: Experimental product.
-
-Try PresentIQ → · Source code
-
-</td>
-<td width="50%" valign="top">
-
-Kontx
-
-Developer Tools · CLI · AI Engineering
-
-A codebase auditing tool that combines static analysis with AI-assisted explanations to help developers understand issues in a project.
-
-It supports multiple AI providers and includes caching and safeguards around sending source code to external services.
-
-Status: Open source.
-
-GitHub Repository
+[**Visit SFG →**](https://seofg.xyz)  
+[**SFG LinkedIn →**](https://www.linkedin.com/company/sfgbyreabot6/)
 
 </td>
 </tr>
 </table>
 
-⸻
+---
 
-What I’m Opening Up
+## Open Source Direction
 
-A lot of my engineering work happens through SFG, where codebases may belong to commercial products or client projects. That means my GitHub has historically shown only part of what I build.
+I’m intentionally open-sourcing more of the work I do for businesses and for myself.  
 
-I’m working on changing that by releasing selected projects as open source.
+I’ve started with ~5 projects and will keep releasing more. The goal is simple: let people see how I handle real systems — from e-commerce flows and business software to AI knowledge systems, developer tooling, and lower-level work in C/C++.
 
-I’ve started with projects across several areas of engineering:
+Current open / opening work includes:
+- **Beam** — developer productivity tool
+- Additional internal tools and experiments (e-commerce patterns, automation, AI integrations, accessibility prototypes)
 
-Project	What It Demonstrates	Technologies
-Omspy API	Multi-tenant order management and e-commerce backend engineering	Python, Django REST Framework, PostgreSQL, Docker, JWT
-Kontx	Codebase analysis, CLI development, and AI integrations	Node.js, TypeScript/JavaScript, LLM APIs
-HookRelay	Webhook infrastructure, asynchronous jobs, retries, and cryptographic signing	Bun, TypeScript, PostgreSQL, Drizzle, Redis, BullMQ
-TeleTrace	Distributed observability architecture for logs, metrics, and traces	Node.js, Express, RabbitMQ, Elasticsearch, MongoDB, React
-Falling Letters	An interactive typing game built around a real problem at home	React, TypeScript, Vite, Tailwind CSS
+[Browse my repositories →](https://github.com/Reabot6?tab=repositories)
 
-These projects aren’t all solving the same problem. That’s intentional.
+---
 
-Building business software requires different decisions from building developer tools. AI applications introduce another set of challenges. Distributed systems require thinking about queues, retries, failures, and data consistency.
+## How I Work
 
-I enjoy working across those boundaries.
+I start by understanding the business:
+- How it works today
+- Who is involved
+- Where information moves
+- Where work is repeated or people get stuck
+- What existing tools already cover
+- What actually needs custom software
 
-More of my work will become public as I prepare and release additional codebases.
+I’d rather solve the real problem than ship a long feature list.
 
-Browse my repositories →
+---
 
-⸻
+## Tech I Work With
 
-Beyond Application Development
+**Languages**  
+![](https://skillicons.dev/icons?i=js,ts,py,c,cpp)
 
-I don’t want to limit my understanding of engineering to building interfaces and connecting APIs.
+**Frontend**  
+![](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)
 
-I’m interested in what happens beneath the abstractions, which has led me to explore several other areas.
+**Backend & Data**  
+![](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase,mongodb)
 
-Systems programming
+**Infrastructure & Tools**  
+![](https://skillicons.dev/icons?i=docker,git,github,vercel) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-* C and C++ experiments.
-* Understanding how computers work beyond the application layer.
-* Exploring memory, processes, performance, and lower-level programming concepts.
+**AI**  
+`LLM APIs` · `RAG` · `Knowledge systems` · `AI integrations` · `AI automation`
 
-Computer vision and human-computer interaction
+**Also:** REST APIs · WebSockets · Authentication · Computer vision · Accessibility
 
-* Webcam-based motion tracking.
-* Experiments with using body movement to control games.
-* Real-time interaction between software and physical movement.
+---
 
-AI engineering
+## Accessibility & Inclusive Technology
 
-* LLM-powered applications and integrations.
-* Retrieval-augmented generation and knowledge systems.
-* Speech recognition and AI-assisted analysis.
-* Experiments with model behavior and AI-generated content detection.
+Accessibility was one of the reasons I started learning to code. It shaped my interest in inclusive technology and education, and it still influences how I build. As SFG grows, I want accessibility and inclusive design to be part of the engineering process from the start — not an afterthought.
 
-Infrastructure and developer tooling
+---
 
-* Webhook delivery, queues, retries, and event processing.
-* Static analysis and code-change impact.
-* Observability, indexing, and querying telemetry.
-* Automation and integrations between software systems.
+## Community: Farcaster
 
-Not every experiment becomes a product. Some are how I learn, test an idea, or understand a technology well enough to use it properly.
+Active on Farcaster. Completed **50 bounties**, building and shipping for the community.
 
-⸻
+[**View my Farcaster profile →**](https://farcaster.xyz/reabot6)
 
-How I Approach Engineering
+---
 
-I start by understanding what needs to happen, not by deciding which framework to use.
+## Certifications & Education
 
-When building software for a business, I want to understand its actual workflow: how information moves, where work gets repeated, what people struggle with, what existing tools already handle, and what genuinely needs to be built.
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/bf1fe173-ec14-4f69-93b8-21e54ff19942/linked_in_profile"><img src="https://images.credly.com/images/592afcf7-1323-4dc4-af0d-0c3cad726e95/linkedin_thumb_blob" alt="MongoDB: Advanced Schema Design Patterns and Anti-patterns" width="180" /></a><br/><sub>MongoDB: Advanced Schema Design Patterns and Anti-patterns</sub></td>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/d3f13057-8ab8-4011-a76b-daf0fa3c0bb9/linked_in_profile"><img src="https://images.credly.com/images/3c35c208-424b-4580-aac2-335f33d87657/linkedin_thumb_blob" alt="MongoDB: Reliability and Availability" width="180" /></a><br/><sub>MongoDB: Reliability and Availability</sub></td>
+<td width="33%" align="center"><a href="https://www.credly.com/badges/296a878e-6073-4ec1-8794-aad5e247206a/linked_in_profile"><img src="https://images.credly.com/images/730e9c82-7869-4288-b580-9f8500a94465/linkedin_thumb_blob" alt="MongoDB: Building AI-Powered Search with Vector Search" width="180" /></a><br/><sub>MongoDB: Building AI-Powered Search with Vector Search</sub></td>
+</tr>
+</table>
 
-Then I work backward from the problem.
+[![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/freeCodeCamp-JavaScript_Algorithms_%26_Data_Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/Reabot6/javascript-algorithms-and-data-structures-v8)
+[![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/Reabot6/responsive-web-design)
 
-That approach influences my technical decisions, too. I care about maintainable architecture, clear boundaries between components, error handling, security, and the behavior of a system when things go wrong.
+- **Harvard CS50**
+- **Educational Technology**, Lagos State University
 
-I don’t think engineering ends when the happy path works.
+---
 
-A webhook system needs to account for failed deliveries. An API needs to consider authentication and data isolation. An AI product needs to account for the limitations of its model. An accessible interface needs to work for the people who depend on it.
-
-The implementation matters, but so does understanding what you’re implementing and why.
-
-⸻
-
-Accessibility & Inclusive Technology
-
-Accessibility was one of the reasons I started learning to code.
-
-It shaped my interest in inclusive technology and education, including experiments with Nigerian Sign Language learning and AI-assisted educational tools.
-
-I want accessibility to be part of how I design and engineer products from the beginning, rather than something considered after the main functionality has been built.
-
-It’s also one of the reasons I care about understanding the people who will actually use the software.
-
-⸻
-
-My Technical Toolkit
-
-These are technologies I work with across different projects, not a claim that every technology appears in every codebase.
-
-Languages
-
-JavaScript · TypeScript · Python · C · C++
-
-Frontend
-
-React · Next.js · Vite · Tailwind CSS · HTML · CSS
-
-Backend & APIs
-
-Node.js · Express · FastAPI · Django REST Framework · REST APIs · WebSockets
-
-Databases & Messaging
-
-PostgreSQL · MongoDB · Redis · RabbitMQ · Elasticsearch
-
-Infrastructure & Tools
-
-Docker · Git · GitHub · Vercel · Railway · BullMQ · Drizzle ORM
-
-AI Engineering
-
-LLM APIs · RAG · Knowledge Systems · Speech Recognition · Computer Vision · AI Integrations · Automation
-
-I choose tools based on the problem, the constraints, and the system I’m trying to build.
-
-⸻
-
-Experience Beyond Code
-
-Building SFG
-
-I’m building SFG as a product engineering studio and venture builder, working across business software, AI systems, internal tools, and products of our own.
-
-That means thinking about more than implementation: understanding requirements, deciding what to build, managing trade-offs, and getting products shipped.
-
-Building Products People Use
-
-I’ve built and shipped multiple products, including a consumer product with over 100 active users. I also develop tools intended for other developers and contribute to open-source software.
-
-Farcaster Community
-
-I’ve completed 50 bounties on Farcaster, building and shipping work for the community.
-
-View my Farcaster profile →
-
-⸻
-
-Certifications & Education
-
-Education
-
-Educational Technology — Lagos State University
-
-MongoDB
-
-* Advanced Schema Design Patterns and Anti-patterns
-* Reliability and Availability
-* Building AI-Powered Search with Vector Search
-
-freeCodeCamp
-
-* JavaScript Algorithms and Data Structures
-* Responsive Web Design
-
-Also studying: Harvard CS50.
-
-⸻
-
-GitHub Activity
+## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Reabot6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reabot6&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-<img src="https://streak-stats.demolab.com/?user=Reabot6&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
 
-My public repositories show only part of my engineering work. I’m gradually making more of that work accessible through open-source releases, with documentation that explains what each project does and how it was built.
+![Stats](https://github-readme-stats.vercel.app/api?username=Reabot6&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reabot6&layout=compact&theme=tokyonight&hide_border=true)
 
-Explore all repositories →
-
-⸻
-
-Currently Focused On
-
-* Building and shipping products through SFG.
-* Releasing more useful projects as open source.
-* Developing AI-powered products and business systems.
-* Exploring distributed systems, developer infrastructure, and systems programming.
-* Making the software I build more accessible and useful.
-
-⸻
-
-Let’s Connect
-
-I’m interested in product engineering, AI engineering, full-stack development, developer tools, and challenging technical problems.
-
-I’m open to opportunities with teams that value engineering judgment, ownership, learning, and shipping useful software.
-
-If you’re building something interesting, need someone who can work across the stack, or want to collaborate on an open-source project, let’s talk.
-
-Email: onimisiadeolu@gmail.com
-LinkedIn: Connect with me
-GitHub: @Reabot6
-SFG: seofg.xyz
+![Streak](https://streak-stats.demolab.com/?user=Reabot6&theme=tokyonight&hide_border=true)
 
 </div>
+
+700+ contributions in the past year, mostly from building and shipping products.  
+Public activity is growing as I open-source more of the work I do through SFG.
+
+---
+
+## Currently Building
+
+- **Cheta** — AI for business knowledge and workflows
+- **SFG** — product engineering studio & venture builder
+- **Ripplex** — developer tooling
+- **Nod** & **Beam** — growing users and contributors
+- Open-sourcing more internal and commercial patterns
+- Accessibility-focused technology and AI experiments
+
+---
+
+## Let’s Connect
+
+Open to product engineering, AI engineering, and startup roles — as well as open-source collaboration and hard technical problems with ambitious teams.
+
+📧 [onimisiadeolu@gmail.com](mailto:onimisiadeolu@gmail.com) · 🐙 [@Reabot6](https://github.com/Reabot6)
